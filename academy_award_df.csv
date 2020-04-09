@@ -1,0 +1,455 @@
+Year,Award,Winner,Film,Nominee,Type
+1928,Directing (Comedy Picture),True,Two Arabian Knights,Lewis Milestone,Academy Award
+1928,Directing (Comedy Picture),False,Speedy,Ted Wilde,Academy Award
+1928,Directing (Dramatic Picture),True,7th Heaven,Frank Borzage,Academy Award
+1928,Directing (Dramatic Picture),False,Sorrell and Son,Herbert Brenon,Academy Award
+1928,Directing (Dramatic Picture),False,The Crowd,King Vidor,Academy Award
+1929,Directing,False,Madame X,Lionel Barrymore,Academy Award
+1929,Directing,False,The Broadway Melody,Harry Beaumont,Academy Award
+1929,Directing,False,In Old Arizona,Irving Cummings,Academy Award
+1929,Directing,True,The Divine Lady,Frank Lloyd,Academy Award
+1929,Directing,False,Drag; and Weary River,Frank Lloyd,Academy Award
+1929,Directing,False,The Patriot,Ernst Lubitsch,Academy Award
+1930,Directing,False,Anna Christie; and Romance,Clarence Brown,Academy Award
+1930,Directing,False,The Divorcee,Robert Leonard,Academy Award
+1930,Directing,False,The Love Parade,Ernst Lubitsch,Academy Award
+1930,Directing,True,All Quiet on the Western Front,Lewis Milestone,Academy Award
+1930,Directing,False,Hallelujah,King Vidor,Academy Award
+1931,Directing,False,Cimarron,Wesley Ruggles,Academy Award
+1931,Directing,False,A Free Soul,Clarence Brown,Academy Award
+1931,Directing,False,The Front Page,Lewis Milestone,Academy Award
+1931,Directing,False,Morocco,Josef Von Sternberg,Academy Award
+1931,Directing,True,Skippy,Norman Taurog,Academy Award
+1932,Directing,True,Bad Girl,Frank Borzage,Academy Award
+1932,Directing,False,The Champ,King Vidor,Academy Award
+1932,Directing,False,Shanghai Express,Josef Von Sternberg,Academy Award
+1933,Directing,True,Cavalcade,Frank Lloyd,Academy Award
+1933,Directing,False,Lady for a Day,Frank Capra [Second],Academy Award
+1933,Directing,False,Little Women,George Cukor [Third],Academy Award
+1934,Directing,True,It Happened One Night,Frank Capra,Academy Award
+1934,Directing,False,One Night of Love,Victor Schertzinger [Third],Academy Award
+1934,Directing,False,The Thin Man,W. S. Van Dyke [Second],Academy Award
+1935,Directing,False,Captain Blood,Michael Curtiz [Second],Academy Award
+1935,Directing,True,The Informer,John Ford,Academy Award
+1935,Directing,False,The Lives of a Bengal Lancer,Henry Hathaway [Third],Academy Award
+1935,Directing,False,Mutiny on the Bounty,Frank Lloyd,Academy Award
+1936,Directing,False,Dodsworth,William Wyler,Academy Award
+1936,Directing,False,The Great Ziegfeld,Robert Z. Leonard,Academy Award
+1936,Directing,True,Mr. Deeds Goes to Town,Frank Capra,Academy Award
+1936,Directing,False,My Man Godfrey,Gregory La Cava,Academy Award
+1936,Directing,False,San Francisco,W. S. Van Dyke,Academy Award
+1937,Directing,True,The Awful Truth,Leo McCarey,Academy Award
+1937,Directing,False,The Good Earth,Sidney Franklin,Academy Award
+1937,Directing,False,The Life of Emile Zola,William Dieterle,Academy Award
+1937,Directing,False,Stage Door,Gregory La Cava,Academy Award
+1937,Directing,False,A Star Is Born,William Wellman,Academy Award
+1938,Directing,False,Angels with Dirty Faces,Michael Curtiz,Academy Award
+1938,Directing,False,Boys Town,Norman Taurog,Academy Award
+1938,Directing,False,The Citadel,King Vidor,Academy Award
+1938,Directing,False,Four Daughters,Michael Curtiz,Academy Award
+1938,Directing,True,You Can't Take It with You,Frank Capra,Academy Award
+1939,Directing,True,Gone with the Wind,Victor Fleming,Academy Award
+1939,Directing,False,"Goodbye, Mr. Chips",Sam Wood,Academy Award
+1939,Directing,False,Mr. Smith Goes to Washington,Frank Capra,Academy Award
+1939,Directing,False,Stagecoach,John Ford,Academy Award
+1939,Directing,False,Wuthering Heights,William Wyler,Academy Award
+1940,Directing,True,The Grapes of Wrath,John Ford,Academy Award
+1940,Directing,False,Kitty Foyle,Sam Wood,Academy Award
+1940,Directing,False,The Letter,William Wyler,Academy Award
+1940,Directing,False,The Philadelphia Story,George Cukor,Academy Award
+1940,Directing,False,Rebecca,Alfred Hitchcock,Academy Award
+1941,Directing,False,Citizen Kane,Orson Welles,Academy Award
+1941,Directing,False,Here Comes Mr. Jordan,Alexander Hall,Academy Award
+1941,Directing,True,How Green Was My Valley,John Ford,Academy Award
+1941,Directing,False,The Little Foxes,William Wyler,Academy Award
+1941,Directing,False,Sergeant York,Howard Hawks,Academy Award
+1942,Directing,False,Kings Row,Sam Wood,Academy Award
+1942,Directing,True,Mrs. Miniver,William Wyler,Academy Award
+1942,Directing,False,Random Harvest,Mervyn LeRoy,Academy Award
+1942,Directing,False,Wake Island,John Farrow,Academy Award
+1942,Directing,False,Yankee Doodle Dandy,Michael Curtiz,Academy Award
+1943,Directing,True,Casablanca,Michael Curtiz,Academy Award
+1943,Directing,False,Heaven Can Wait,Ernst Lubitsch,Academy Award
+1943,Directing,False,The Human Comedy,Clarence Brown,Academy Award
+1943,Directing,False,The More the Merrier,George Stevens,Academy Award
+1943,Directing,False,The Song of Bernadette,Henry King,Academy Award
+1944,Directing,False,Double Indemnity,Billy Wilder,Academy Award
+1944,Directing,True,Going My Way,Leo McCarey,Academy Award
+1944,Directing,False,Laura,Otto Preminger,Academy Award
+1944,Directing,False,Lifeboat,Alfred Hitchcock,Academy Award
+1944,Directing,False,Wilson,Henry King,Academy Award
+1945,Directing,False,The Bells of St. Mary's,Leo McCarey,Academy Award
+1945,Directing,True,The Lost Weekend,Billy Wilder,Academy Award
+1945,Directing,False,National Velvet,Clarence Brown,Academy Award
+1945,Directing,False,The Southerner,Jean Renoir,Academy Award
+1945,Directing,False,Spellbound,Alfred Hitchcock,Academy Award
+1946,Directing,True,The Best Years of Our Lives,William Wyler,Academy Award
+1946,Directing,False,Brief Encounter,David Lean,Academy Award
+1946,Directing,False,It's a Wonderful Life,Frank Capra,Academy Award
+1946,Directing,False,The Killers,Robert Siodmak,Academy Award
+1946,Directing,False,The Yearling,Clarence Brown,Academy Award
+1947,Directing,False,The Bishop's Wife,Henry Koster,Academy Award
+1947,Directing,False,Crossfire,Edward Dmytryk,Academy Award
+1947,Directing,False,A Double Life,George Cukor,Academy Award
+1947,Directing,True,Gentleman's Agreement,Elia Kazan,Academy Award
+1947,Directing,False,Great Expectations,David Lean,Academy Award
+1948,Directing,False,Hamlet,Laurence Olivier,Academy Award
+1948,Directing,False,Johnny Belinda,Jean Negulesco,Academy Award
+1948,Directing,False,The Search,Fred Zinnemann,Academy Award
+1948,Directing,False,The Snake Pit,Anatole Litvak,Academy Award
+1948,Directing,True,The Treasure of the Sierra Madre,John Huston,Academy Award
+1949,Directing,False,All the King's Men,Robert Rossen,Academy Award
+1949,Directing,False,Battleground,William A. Wellman,Academy Award
+1949,Directing,False,The Fallen Idol,Carol Reed,Academy Award
+1949,Directing,False,The Heiress,William Wyler,Academy Award
+1949,Directing,True,A Letter to Three Wives,Joseph L. Mankiewicz,Academy Award
+1950,Directing,True,All about Eve,Joseph L. Mankiewicz,Academy Award
+1950,Directing,False,The Asphalt Jungle,John Huston,Academy Award
+1950,Directing,False,Born Yesterday,George Cukor,Academy Award
+1950,Directing,False,Sunset Blvd.,Billy Wilder,Academy Award
+1950,Directing,False,The Third Man,Carol Reed,Academy Award
+1951,Directing,False,The African Queen,John Huston,Academy Award
+1951,Directing,False,An American in Paris,Vincente Minnelli,Academy Award
+1951,Directing,False,Detective Story,William Wyler,Academy Award
+1951,Directing,True,A Place in the Sun,George Stevens,Academy Award
+1951,Directing,False,A Streetcar Named Desire,Elia Kazan,Academy Award
+1952,Directing,False,Five Fingers,Joseph L. Mankiewicz,Academy Award
+1952,Directing,False,The Greatest Show on Earth,Cecil B. DeMille,Academy Award
+1952,Directing,False,High Noon,Fred Zinnemann,Academy Award
+1952,Directing,False,Moulin Rouge,John Huston,Academy Award
+1952,Directing,True,The Quiet Man,John Ford,Academy Award
+1953,Directing,True,From Here to Eternity,Fred Zinnemann,Academy Award
+1953,Directing,False,Lili,Charles Walters,Academy Award
+1953,Directing,False,Roman Holiday,William Wyler,Academy Award
+1953,Directing,False,Shane,George Stevens,Academy Award
+1953,Directing,False,Stalag 17,Billy Wilder,Academy Award
+1954,Directing,False,The Country Girl,George Seaton,Academy Award
+1954,Directing,False,The High and the Mighty,William Wellman,Academy Award
+1954,Directing,True,On the Waterfront,Elia Kazan,Academy Award
+1954,Directing,False,Rear Window,Alfred Hitchcock,Academy Award
+1954,Directing,False,Sabrina,Billy Wilder,Academy Award
+1955,Directing,False,Bad Day at Black Rock,John Sturges,Academy Award
+1955,Directing,False,East of Eden,Elia Kazan,Academy Award
+1955,Directing,True,Marty,Delbert Mann,Academy Award
+1955,Directing,False,Picnic,Joshua Logan,Academy Award
+1955,Directing,False,Summertime,David Lean,Academy Award
+1956,Directing,False,Around the World in 80 Days,Michael Anderson,Academy Award
+1956,Directing,False,Friendly Persuasion,William Wyler,Academy Award
+1956,Directing,True,Giant,George Stevens,Academy Award
+1956,Directing,False,The King and I,Walter Lang,Academy Award
+1956,Directing,False,War and Peace,King Vidor,Academy Award
+1957,Directing,True,The Bridge on the River Kwai,David Lean,Academy Award
+1957,Directing,False,Peyton Place,Mark Robson,Academy Award
+1957,Directing,False,Sayonara,Joshua Logan,Academy Award
+1957,Directing,False,12 Angry Men,Sidney Lumet,Academy Award
+1957,Directing,False,Witness for the Prosecution,Billy Wilder,Academy Award
+1958,Directing,False,Cat on a Hot Tin Roof,Richard Brooks,Academy Award
+1958,Directing,False,The Defiant Ones,Stanley Kramer,Academy Award
+1958,Directing,True,Gigi,Vincente Minnelli,Academy Award
+1958,Directing,False,I Want to Live!,Robert Wise,Academy Award
+1958,Directing,False,The Inn of the Sixth Happiness,Mark Robson,Academy Award
+1959,Directing,True,Ben-Hur,William Wyler,Academy Award
+1959,Directing,False,The Diary of Anne Frank,George Stevens,Academy Award
+1959,Directing,False,The Nun's Story,Fred Zinnemann,Academy Award
+1959,Directing,False,Room at the Top,Jack Clayton,Academy Award
+1959,Directing,False,Some Like It Hot,Billy Wilder,Academy Award
+1960,Directing,True,The Apartment,Billy Wilder,Academy Award
+1960,Directing,False,Never on Sunday,Jules Dassin,Academy Award
+1960,Directing,False,Psycho,Alfred Hitchcock,Academy Award
+1960,Directing,False,Sons and Lovers,Jack Cardiff,Academy Award
+1960,Directing,False,The Sundowners,Fred Zinnemann,Academy Award
+1961,Directing,False,The Guns of Navarone,J. Lee Thompson,Academy Award
+1961,Directing,False,The Hustler,Robert Rossen,Academy Award
+1961,Directing,False,Judgment at Nuremberg,Stanley Kramer,Academy Award
+1961,Directing,False,La Dolce Vita,Federico Fellini,Academy Award
+1961,Directing,True,West Side Story,"Robert Wise, Jerome Robbins",Academy Award
+1962,Directing,False,David and Lisa,Frank Perry,Academy Award
+1962,Directing,False,Divorce--Italian Style,Pietro Germi,Academy Award
+1962,Directing,True,Lawrence of Arabia,David Lean,Academy Award
+1962,Directing,False,The Miracle Worker,Arthur Penn,Academy Award
+1962,Directing,False,To Kill a Mockingbird,Robert Mulligan,Academy Award
+1963,Directing,False,America America,Elia Kazan,Academy Award
+1963,Directing,False,The Cardinal,Otto Preminger,Academy Award
+1963,Directing,False,Federico Fellini's 8-1/2,Federico Fellini,Academy Award
+1963,Directing,False,Hud,Martin Ritt,Academy Award
+1963,Directing,True,Tom Jones,Tony Richardson,Academy Award
+1964,Directing,False,Becket,Peter Glenville,Academy Award
+1964,Directing,False,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick,Academy Award
+1964,Directing,False,Mary Poppins,Robert Stevenson,Academy Award
+1964,Directing,True,My Fair Lady,George Cukor,Academy Award
+1964,Directing,False,Zorba the Greek,Michael Cacoyannis,Academy Award
+1965,Directing,False,The Collector,William Wyler,Academy Award
+1965,Directing,False,Darling,John Schlesinger,Academy Award
+1965,Directing,False,Doctor Zhivago,David Lean,Academy Award
+1965,Directing,True,The Sound of Music,Robert Wise,Academy Award
+1965,Directing,False,Woman in the Dunes,Hiroshi Teshigahara,Academy Award
+1966,Directing,False,Blow-Up,Michelangelo Antonioni,Academy Award
+1966,Directing,False,A Man and a Woman,Claude Lelouch,Academy Award
+1966,Directing,True,A Man for All Seasons,Fred Zinnemann,Academy Award
+1966,Directing,False,The Professionals,Richard Brooks,Academy Award
+1966,Directing,False,Who's Afraid of Virginia Woolf?,Mike Nichols,Academy Award
+1967,Directing,False,Bonnie and Clyde,Arthur Penn,Academy Award
+1967,Directing,True,The Graduate,Mike Nichols,Academy Award
+1967,Directing,False,Guess Who's Coming to Dinner,Stanley Kramer,Academy Award
+1967,Directing,False,In Cold Blood,Richard Brooks,Academy Award
+1967,Directing,False,In the Heat of the Night,Norman Jewison,Academy Award
+1968,Directing,False,The Battle of Algiers,Gillo Pontecorvo,Academy Award
+1968,Directing,False,The Lion in Winter,Anthony Harvey,Academy Award
+1968,Directing,True,Oliver!,Carol Reed,Academy Award
+1968,Directing,False,Romeo and Juliet,Franco Zeffirelli,Academy Award
+1968,Directing,False,2001: A Space Odyssey,Stanley Kubrick,Academy Award
+1969,Directing,False,Alice's Restaurant,Arthur Penn,Academy Award
+1969,Directing,False,Butch Cassidy and the Sundance Kid,George Roy Hill,Academy Award
+1969,Directing,True,Midnight Cowboy,John Schlesinger,Academy Award
+1969,Directing,False,"They Shoot Horses, Don't They?",Sydney Pollack,Academy Award
+1969,Directing,False,Z,Costa-Gavras,Academy Award
+1970,Directing,False,Fellini Satyricon,Federico Fellini,Academy Award
+1970,Directing,False,Love Story,Arthur Hiller,Academy Award
+1970,Directing,True,MA*S*H,Robert Altman,Academy Award
+1970,Directing,True,Patton,Franklin J. Schaffner,Academy Award
+1970,Directing,False,Women in Love,Ken Russell,Academy Award
+1971,Directing,False,A Clockwork Orange,Stanley Kubrick,Academy Award
+1971,Directing,False,Fiddler on the Roof,Norman Jewison,Academy Award
+1971,Directing,True,The French Connection,William Friedkin,Academy Award
+1971,Directing,False,The Last Picture Show,Peter Bogdanovich,Academy Award
+1971,Directing,False,Sunday Bloody Sunday,John Schlesinger,Academy Award
+1972,Directing,True,Cabaret,Bob Fosse,Academy Award
+1972,Directing,False,Deliverance,John Boorman,Academy Award
+1972,Directing,False,The Emigrants,Jan Troell,Academy Award
+1972,Directing,False,The Godfather,Francis Ford Coppola,Academy Award
+1972,Directing,False,Sleuth,Joseph L. Mankiewicz,Academy Award
+1973,Directing,False,American Graffiti,George Lucas,Academy Award
+1973,Directing,False,Cries and Whispers,Ingmar Bergman,Academy Award
+1973,Directing,False,The Exorcist,William Friedkin,Academy Award
+1973,Directing,False,Last Tango in Paris,Bernardo Bertolucci,Academy Award
+1973,Directing,True,The Sting,George Roy Hill,Academy Award
+1974,Directing,False,Chinatown,Roman Polanski,Academy Award
+1974,Directing,False,Day for Night,Francois Truffaut,Academy Award
+1974,Directing,True,The Godfather Part II,Francis Ford Coppola,Academy Award
+1974,Directing,False,Lenny,Bob Fosse,Academy Award
+1974,Directing,False,A Woman under the Influence,John Cassavetes,Academy Award
+1975,Directing,False,Amarcord,Federico Fellini,Academy Award
+1975,Directing,False,Barry Lyndon,Stanley Kubrick,Academy Award
+1975,Directing,False,Dog Day Afternoon,Sidney Lumet,Academy Award
+1975,Directing,False,Nashville,Robert Altman,Academy Award
+1975,Directing,True,One Flew over the Cuckoo's Nest,Milos Forman,Academy Award
+1976,Directing,False,All the President's Men,Alan J. Pakula,Academy Award
+1976,Directing,False,Face to Face,Ingmar Bergman,Academy Award
+1976,Directing,False,Network,Sidney Lumet,Academy Award
+1976,Directing,True,Rocky,John G. Avildsen,Academy Award
+1976,Directing,False,Seven Beauties,Lina Wertmüller,Academy Award
+1977,Directing,True,Annie Hall,Woody Allen,Academy Award
+1977,Directing,False,Close Encounters of the Third Kind,Steven Spielberg,Academy Award
+1977,Directing,False,Julia,Fred Zinnemann,Academy Award
+1977,Directing,False,Star Wars,George Lucas,Academy Award
+1977,Directing,False,The Turning Point,Herbert Ross,Academy Award
+1978,Directing,False,Coming Home,Hal Ashby,Academy Award
+1978,Directing,True,The Deer Hunter,Michael Cimino,Academy Award
+1978,Directing,False,Heaven Can Wait,"Warren Beatty, Buck Henry",Academy Award
+1978,Directing,False,Interiors,Woody Allen,Academy Award
+1978,Directing,False,Midnight Express,Alan Parker,Academy Award
+1979,Directing,False,All That Jazz,Bob Fosse,Academy Award
+1979,Directing,False,Apocalypse Now,Francis Coppola,Academy Award
+1979,Directing,False,Breaking Away,Peter Yates,Academy Award
+1979,Directing,True,Kramer vs. Kramer,Robert Benton,Academy Award
+1979,Directing,False,La Cage aux Folles,Edouard Molinaro,Academy Award
+1980,Directing,False,The Elephant Man,David Lynch,Academy Award
+1980,Directing,True,Ordinary People,Robert Redford,Academy Award
+1980,Directing,False,Raging Bull,Martin Scorsese,Academy Award
+1980,Directing,False,The Stunt Man,Richard Rush,Academy Award
+1980,Directing,False,Tess,Roman Polanski,Academy Award
+1981,Directing,False,Atlantic City,Louis Malle,Academy Award
+1981,Directing,False,Chariots of Fire,Hugh Hudson,Academy Award
+1981,Directing,False,On Golden Pond,Mark Rydell,Academy Award
+1981,Directing,False,Raiders of the Lost Ark,Steven Spielberg,Academy Award
+1981,Directing,True,Reds,Warren Beatty,Academy Award
+1982,Directing,False,Das Boot,Wolfgang Petersen,Academy Award
+1982,Directing,False,E.T. The Extra-Terrestrial,Steven Spielberg,Academy Award
+1982,Directing,True,Gandhi,Richard Attenborough,Academy Award
+1982,Directing,False,Tootsie,Sydney Pollack,Academy Award
+1982,Directing,False,The Verdict,Sidney Lumet,Academy Award
+1983,Directing,False,The Dresser,Peter Yates,Academy Award
+1983,Directing,False,Fanny & Alexander,Ingmar Bergman,Academy Award
+1983,Directing,False,Silkwood,Mike Nichols,Academy Award
+1983,Directing,False,Tender Mercies,Bruce Beresford,Academy Award
+1983,Directing,True,Terms of Endearment,James L. Brooks,Academy Award
+1984,Directing,True,Amadeus,Milos Forman,Academy Award
+1984,Directing,False,Broadway Danny Rose,Woody Allen,Academy Award
+1984,Directing,False,The Killing Fields,Roland Joffé ,Academy Award
+1984,Directing,False,A Passage to India,David Lean,Academy Award
+1984,Directing,False,Places in the Heart,Robert Benton,Academy Award
+1985,Directing,False,Kiss of the Spider Woman,Hector Babenco,Academy Award
+1985,Directing,True,Out of Africa,Sydney Pollack,Academy Award
+1985,Directing,False,Prizzi's Honor,John Huston,Academy Award
+1985,Directing,False,Ran,Akira Kurosawa,Academy Award
+1985,Directing,False,Witness,Peter Weir,Academy Award
+1986,Directing,False,Blue Velvet,David Lynch,Academy Award
+1986,Directing,False,Hannah and Her Sisters,Woody Allen,Academy Award
+1986,Directing,False,The Mission,Roland Joffé,Academy Award
+1986,Directing,True,Platoon,Oliver Stone,Academy Award
+1986,Directing,False,A Room with a View,James Ivory,Academy Award
+1987,Directing,False,Fatal Attraction,Adrian Lyne,Academy Award
+1987,Directing,False,Hope and Glory,John Boorman,Academy Award
+1987,Directing,True,The Last Emperor,Bernardo Bertolucci,Academy Award
+1987,Directing,False,Moonstruck,Norman Jewison,Academy Award
+1987,Directing,False,My Life as a Dog,Lasse Hallström,Academy Award
+1988,Directing,False,A Fish Called Wanda,Charles Crichton,Academy Award
+1988,Directing,False,The Last Temptation of Christ,Martin Scorsese,Academy Award
+1988,Directing,False,Mississippi Burning,Alan Parker,Academy Award
+1988,Directing,True,Rain Man,Barry Levinson,Academy Award
+1988,Directing,False,Working Girl,Mike Nichols,Academy Award
+1989,Directing,True,Born on the Fourth of July,Oliver Stone,Academy Award
+1989,Directing,False,Crimes and Misdemeanors,Woody Allen,Academy Award
+1989,Directing,False,Dead Poets Society,Peter Weir,Academy Award
+1989,Directing,False,Henry V,Kenneth Branagh,Academy Award
+1989,Directing,False,My Left Foot,Jim Sheridan,Academy Award
+1990,Directing,True,Dances With Wolves,Kevin Costner,Academy Award
+1990,Directing,False,"The Godfather, Part III",Francis Ford Coppola,Academy Award
+1990,Directing,False,Good Fellas,Martin Scorsese,Academy Award
+1990,Directing,False,The Grifters,Stephen Frears,Academy Award
+1990,Directing,False,Reversal of Fortune,Barbet Schroeder,Academy Award
+1991,Directing,False,Boyz N the Hood,John Singleton,Academy Award
+1991,Directing,False,Bugsy,Barry Levinson,Academy Award
+1991,Directing,False,JFK,Oliver Stone,Academy Award
+1991,Directing,True,The Silence of the Lambs,Jonathan Demme,Academy Award
+1991,Directing,False,Thelma & Louise,Ridley Scott,Academy Award
+1992,Directing,False,The Crying Game,Neil Jordan,Academy Award
+1992,Directing,False,Howards End,James Ivory,Academy Award
+1992,Directing,False,The Player,Robert Altman,Academy Award
+1992,Directing,False,Scent of a Woman,Martin Brest,Academy Award
+1992,Directing,True,Unforgiven,Clint Eastwood,Academy Award
+1993,Directing,False,In the Name of the Father,Jim Sheridan,Academy Award
+1993,Directing,False,The Piano,Jane Campion,Academy Award
+1993,Directing,False,The Remains of the Day,James Ivory,Academy Award
+1993,Directing,True,Schindler's List,Steven Spielberg,Academy Award
+1993,Directing,False,Short Cuts,Robert Altman,Academy Award
+1994,Directing,False,Bullets over Broadway,Woody Allen,Academy Award
+1994,Directing,True,Forrest Gump,Robert Zemeckis,Academy Award
+1994,Directing,False,Pulp Fiction,Quentin Tarantino,Academy Award
+1994,Directing,False,Quiz Show,Robert Redford,Academy Award
+1994,Directing,False,Red,Krzysztof Kieslowski,Academy Award
+1995,Directing,False,Babe,Chris Noonan,Academy Award
+1995,Directing,True,Braveheart,Mel Gibson,Academy Award
+1995,Directing,False,Dead Man Walking,Tim Robbins,Academy Award
+1995,Directing,False,Leaving Las Vegas,Mike Figgis,Academy Award
+1995,Directing,False,The Postman (Il Postino),Michael Radford,Academy Award
+1996,Directing,True,The English Patient,Anthony Minghella,Academy Award
+1996,Directing,False,Fargo,Joel Coen,Academy Award
+1996,Directing,False,The People vs. Larry Flynt,Milos Forman,Academy Award
+1996,Directing,False,Secrets & Lies,Mike Leigh,Academy Award
+1996,Directing,False,Shine,Scott Hicks,Academy Award
+1997,Directing,False,The Full Monty,Peter Cattaneo,Academy Award
+1997,Directing,False,Good Will Hunting,Gus Van Sant,Academy Award
+1997,Directing,False,L.A. Confidential,Curtis Hanson,Academy Award
+1997,Directing,False,The Sweet Hereafter,Atom Egoyan,Academy Award
+1997,Directing,True,Titanic,James Cameron,Academy Award
+1998,Directing,False,Life Is Beautiful,Roberto Benigni,Academy Award
+1998,Directing,True,Saving Private Ryan,Steven Spielberg,Academy Award
+1998,Directing,False,Shakespeare in Love,John Madden,Academy Award
+1998,Directing,False,The Thin Red Line,Terrence Malick,Academy Award
+1998,Directing,False,The Truman Show,Peter Weir,Academy Award
+1999,Directing,True,American Beauty,Sam Mendes,Academy Award
+1999,Directing,False,Being John Malkovich,Spike Jonze,Academy Award
+1999,Directing,False,The Cider House Rules,Lasse Hallström,Academy Award
+1999,Directing,False,The Insider,Michael Mann,Academy Award
+1999,Directing,False,The Sixth Sense,M. Night Shyamalan,Academy Award
+2000,Directing,False,Billy Elliot,Stephen Daldry,Academy Award
+2000,Directing,False,"Crouching Tiger, Hidden Dragon",Ang Lee,Academy Award
+2000,Directing,False,Erin Brockovich,Steven Soderbergh,Academy Award
+2000,Directing,False,Gladiator,Ridley Scott,Academy Award
+2000,Directing,True,Traffic,Steven Soderbergh,Academy Award
+2001,Directing,True,A Beautiful Mind,Ron Howard,Academy Award
+2001,Directing,False,Black Hawk Down,Ridley Scott,Academy Award
+2001,Directing,False,Gosford Park,Robert Altman,Academy Award
+2001,Directing,False,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,Academy Award
+2001,Directing,False,Mulholland Drive,David Lynch,Academy Award
+2002,Directing,False,Chicago,Rob Marshall,Academy Award
+2002,Directing,False,Gangs of New York,Martin Scorsese,Academy Award
+2002,Directing,False,The Hours,Stephen Daldry,Academy Award
+2002,Directing,True,The Pianist,Roman Polanski,Academy Award
+2002,Directing,False,Talk to Her,Pedro Almodóvar,Academy Award
+2003,Directing,False,City of God,Fernando Meirelles,Academy Award
+2003,Directing,True,The Lord of the Rings: The Return of the King,Peter Jackson,Academy Award
+2003,Directing,False,Lost in Translation,Sofia Coppola,Academy Award
+2003,Directing,False,Master and Commander: The Far Side of the World,Peter Weir,Academy Award
+2003,Directing,False,Mystic River,Clint Eastwood,Academy Award
+2004,Directing,False,The Aviator,Martin Scorsese,Academy Award
+2004,Directing,True,Million Dollar Baby,Clint Eastwood,Academy Award
+2004,Directing,False,Ray,Taylor Hackford,Academy Award
+2004,Directing,False,Sideways,Alexander Payne,Academy Award
+2004,Directing,False,Vera Drake,Mike Leigh,Academy Award
+2005,Directing,True,Brokeback Mountain,Ang Lee,Academy Award
+2005,Directing,False,Capote,Bennett Miller,Academy Award
+2005,Directing,False,Crash,Paul Haggis,Academy Award
+2005,Directing,False,"Good Night, and Good Luck.",George Clooney,Academy Award
+2005,Directing,False,Munich,Steven Spielberg,Academy Award
+2006,Directing,False,Babel,Alejandro González Iñárritu,Academy Award
+2006,Directing,True,The Departed,Martin Scorsese,Academy Award
+2006,Directing,False,Letters from Iwo Jima,Clint Eastwood,Academy Award
+2006,Directing,False,The Queen,Stephen Frears,Academy Award
+2006,Directing,False,United 93,Paul Greengrass,Academy Award
+2007,Directing,False,The Diving Bell and the Butterfly,Julian Schnabel,Academy Award
+2007,Directing,False,Juno,Jason Reitman,Academy Award
+2007,Directing,False,Michael Clayton,Tony Gilroy,Academy Award
+2007,Directing,True,No Country for Old Men,Joel Coen and Ethan Coen,Academy Award
+2007,Directing,False,There Will Be Blood,Paul Thomas Anderson,Academy Award
+2008,Directing,False,The Curious Case of Benjamin Button,David Fincher,Academy Award
+2008,Directing,False,Frost/Nixon,Ron Howard,Academy Award
+2008,Directing,False,Milk,Gus Van Sant,Academy Award
+2008,Directing,False,The Reader,Stephen Daldry,Academy Award
+2008,Directing,True,Slumdog Millionaire,Danny Boyle,Academy Award
+2009,Directing,False,Avatar,James Cameron,Academy Award
+2009,Directing,True,The Hurt Locker,Kathryn Bigelow,Academy Award
+2009,Directing,False,Inglourious Basterds,Quentin Tarantino,Academy Award
+2009,Directing,False,Precious: Based on the Novel 'Push' by Sapphire,Lee Daniels,Academy Award
+2009,Directing,False,Up in the Air,Jason Reitman,Academy Award
+2010,Directing,False,Black Swan,Darren Aronofsky,Academy Award
+2010,Directing,False,The Fighter,David O. Russell,Academy Award
+2010,Directing,True,The King's Speech,Tom Hooper,Academy Award
+2010,Directing,False,The Social Network,David Fincher,Academy Award
+2010,Directing,False,True Grit,Joel Coen and Ethan Coen,Academy Award
+2011,Directing,True,The Artist,Michel Hazanavicius,Academy Award
+2011,Directing,False,The Descendants,Alexander Payne,Academy Award
+2011,Directing,False,Hugo,Martin Scorsese,Academy Award
+2011,Directing,False,Midnight in Paris,Woody Allen,Academy Award
+2011,Directing,False,The Tree of Life,Terrence Malick,Academy Award
+2012,Directing,False,Amour,Michael Haneke,Academy Award
+2012,Directing,False,Beasts of the Southern Wild,Benh Zeitlin,Academy Award
+2012,Directing,True,Life of Pi,Ang Lee,Academy Award
+2012,Directing,False,Lincoln,Steven Spielberg,Academy Award
+2012,Directing,False,Silver Linings Playbook,David O. Russell,Academy Award
+2013,Directing,False,American Hustle,David O. Russell,Academy Award
+2013,Directing,True,Gravity,Alfonso Cuarón,Academy Award
+2013,Directing,False,Nebraska,Alexander Payne,Academy Award
+2013,Directing,False,12 Years a Slave,Steve McQueen,Academy Award
+2013,Directing,False,The Wolf of Wall Street,Martin Scorsese,Academy Award
+2014,Directing,True,Birdman or (The Unexpected Virtue of Ignorance),Alejandro González Iñárritu,Academy Award
+2014,Directing,False,Boyhood,Richard Linklater,Academy Award
+2014,Directing,False,Foxcatcher,Bennett Miller,Academy Award
+2014,Directing,False,The Grand Budapest Hotel,Wes Anderson,Academy Award
+2014,Directing,False,The Imitation Game,Morten Tyldum,Academy Award
+2015,Directing,False,The Big Short,Adam McKay,Academy Award
+2015,Directing,False,Mad Max: Fury Road,George Miller,Academy Award
+2015,Directing,True,The Revenant,Alejandro González Iñárritu,Academy Award
+2015,Directing,False,Room,Lenny Abrahamson,Academy Award
+2015,Directing,False,Spotlight,Tom McCarthy,Academy Award
+2016,Directing,True,La La Land,	Damien Chazelle,Academy Award
+2016,Directing,False,Hacksaw Ridge,Mel Gibson	,Academy Award
+2016,Directing,False,Moonlight,Barry Jenkins	,Academy Award
+2016,Directing,False,Manchester by the Sea,Kenneth Lonergan	,Academy Award
+2016,Directing,False,Arrival,Denis Villeneuve	,Academy Award
+2017,Directing,True,The Shape of Water,Guillermo del Toro	,Academy Award
+2017,Directing,False,Phantom Thread,Paul Thomas Anderson	,Academy Award
+2017,Directing,False,Lady Bird,Greta Gerwig	,Academy Award
+2017,Directing,False,Dunkirk,Christopher Nolan	,Academy Award
+2017,Directing,False,Get Out,Jordan Peele	,Academy Award
+2018,Directing,True,Roma,Alfonso Cuarón	,Academy Award
+2018,Directing,False,The Favourite,Yorgos Lanthimos	,Academy Award
+2018,Directing,False,BlacKkKlansman,Spike Lee	,Academy Award
+2018,Directing,False,Vice,Adam McKay	,Academy Award
+2018,Directing,False,Cold War,Paweł Pawlikowski	,Academy Award
+2019,Directing,True,Parasite,Bong Joon-ho	,Academy Award
+2019,Directing,False,1917,Sam Mendes	,Academy Award
+2019,Directing,False,Joker,Todd Phillips	,Academy Award
+2019,Directing,False,The Irishman,Martin Scorsese	,Academy Award
+2019,Directing,False,Once Upon a Time in Hollywood,Quentin Tarantino	,Academy Award
