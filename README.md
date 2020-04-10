@@ -60,11 +60,28 @@ Using data research, inspection, cleaning and analysis we could analyze the wome
    
 ## Database
 
+To be able to answer our questions we combined our datsets into one main dataset: df_tmdb.pkl
+
+
+- To be able to compare the award nominees and winners with the gender of the directors, we first merged the golden globe data with the academy awards winners --> "Merging_awards.ipynb"
+- To extract only the directors from the TMDB-dataset "df_all.pkl" we merged it with the list of directors from wikipedia "movie_director_names.ipynb" -->
+- Finally, we joined "Merging_awards.ipynb" with the "df_all.pkl" (contains The Movie Database Information)
 
 ## Workflow
 
+1. Brainstorming and Alignement on topics and possible questions
+2. Research of relevant data from different sources 
+3. Comparing data sources and decision which data sources to use
+4. Extracting and cleaning the data
+4. Merging the data
+5. Data Analysis
+6. Data visualization 
+7. Preparing the Presentation 
+
 
 ## Organization
+
+We organized our project by using a trello-board and assigning to-dos to everyone. We had fixed check-ins to discuss problems and share results.
 
 
 ## Links
