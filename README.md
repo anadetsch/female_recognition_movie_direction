@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Tarsiers
@@ -70,3 +71,6 @@ Using data research, inspection, cleaning and analysis we could analyze the wome
 [Repository](https://github.com/anadetsch/tarsiers)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/9vAPB2OF/data-week-3-project-tarsiers)  
+=======
+hello
+>>>>>>> 02828847647b595527001900ed80e92da7a99e42
