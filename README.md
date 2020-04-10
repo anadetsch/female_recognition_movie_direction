@@ -89,5 +89,5 @@ We organized our project by using a trello-board and assigning to-dos to everyon
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/9vAPB2OF/data-week-3-project-tarsiers)  
 =======
-hello
+
 >>>>>>> 02828847647b595527001900ed80e92da7a99e42
