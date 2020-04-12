@@ -56,7 +56,7 @@ Using data research, inspection, cleaning and analysis we could analyze the wome
     - https://developers.themoviedb.org/3/getting-started
     - People - get details: keyword, key
         - returns: Person details and top 3 rated movies (nested).
-    - Request made iterating by list of names, normaliying and try/except.
+    - Request made iterating by list of names into the request url, normalizing and try/except.
    
 ## Database
 
@@ -64,8 +64,8 @@ To be able to answer our questions we combined our datsets into one main dataset
 
 
 - To be able to compare the award nominees and winners with the gender of the directors, we first merged the golden globe data with the academy awards winners --> "Merging_awards.ipynb"
-- To extract only the directors from the TMDB-dataset "df_all.pkl" we merged it with the list of directors from wikipedia "movie_director_names.ipynb" -->
-- Finally, we joined "Merging_awards.ipynb" with the "df_all.pkl" (contains The Movie Database Information)
+- To extract only the directors from the TMDB-API, we input the list of directors from wikipedia into the API Requests via a for loop, amounting in over 2000 requests "Web Scraping Wikipedia and API Requests to TMDB.ipynb" -->
+- Finally, we joined "Merging_awards.ipynb" with the "df_all2.pkl" (contains The Movie Database Information) within this notebook: "CleaningandMergingTMDBDataframewithAwardsDF.ipynb" -->
 
 ## Workflow
 
