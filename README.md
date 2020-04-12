@@ -1,12 +1,12 @@
-<<<<<<< HEAD
+
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Tarsiers
 Project module 01
 
-Ana Paula Detsch
-Brian Meyer
-Raphaela Sinanovic
+- Ana Paula Detsch
+- Brian Meyer
+- Raphaela Sinanovic
 
 Data Analysis 03-20, Berlin, 04/10/2020
 
@@ -86,8 +86,6 @@ We organized our project by using a trello-board and assigning to-dos to everyon
 
 ## Links
 [Repository](https://github.com/anadetsch/tarsiers)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1pyiCjz33oJ43kqFvKdSZNXEzEoY-p1KKHyHPEMLSi9s/edit?usp=sharing)  
 [Trello](https://trello.com/b/9vAPB2OF/data-week-3-project-tarsiers)  
-=======
 
->>>>>>> 02828847647b595527001900ed80e92da7a99e42
