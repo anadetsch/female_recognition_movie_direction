@@ -2,6 +2,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Tarsiers
+## Female recognition in the film direction
+
 Project module 01
 
 - Ana Paula Detsch
@@ -9,6 +11,7 @@ Project module 01
 - Raphaela Sinanovic
 
 Data Analysis 03-20, Berlin, 04/10/2020
+
 
 ## Content
 
@@ -20,9 +23,11 @@ Data Analysis 03-20, Berlin, 04/10/2020
 - [Organization](#organization)
 - [Links](#links)
 
+
 ## Project Description
 Women are underrepresented in many working areas, for example in the film industry. There are many female actors, but what about directing roles? 
 Using data research, inspection, cleaning and analysis we could analyze the women's presence in directring roles inside the film industry.
+
 
 ## Questions & Hypotheses
 - How is the development of female vs. male award winners?
@@ -58,6 +63,7 @@ Using data research, inspection, cleaning and analysis we could analyze the wome
         - returns: Person details and top 3 rated movies (nested).
     - Request made iterating by list of names, normaliying and try/except.
    
+   
 ## Database
 
 To be able to answer our questions we combined our datsets into one main dataset: df_tmdb.pkl
@@ -66,6 +72,7 @@ To be able to answer our questions we combined our datsets into one main dataset
 - To be able to compare the award nominees and winners with the gender of the directors, we first merged the golden globe data with the academy awards winners --> "Merging_awards.ipynb"
 - To extract only the directors from the TMDB-dataset "df_all.pkl" we merged it with the list of directors from wikipedia "movie_director_names.ipynb" -->
 - Finally, we joined "Merging_awards.ipynb" with the "df_all.pkl" (contains The Movie Database Information)
+
 
 ## Workflow
 
